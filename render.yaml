@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: sidtm-academic-kpi-dashboard
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_VERSION
+        value: 18.18.0
+    autoDeploy: true

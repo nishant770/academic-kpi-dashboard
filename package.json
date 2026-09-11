@@ -1,0 +1,23 @@
+{
+  "name": "academic-kpi-dashboard",
+  "version": "2.0.0",
+  "description": "SIDTM MBA Academic KPI & Placement Intelligence Dynamic Executive Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "sidtm",
+    "kpi-dashboard",
+    "academic-analytics",
+    "mba-placement",
+    "rbac"
+  ],
+  "author": "SIDTM Directorate & Academic Governance",
+  "license": "ISC"
+}

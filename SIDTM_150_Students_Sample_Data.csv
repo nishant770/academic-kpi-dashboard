@@ -1,0 +1,151 @@
+PRN,Student Name,Batch,Semester,Program,Undergrad Degree,Work Experience (y),Domain Preference,Cert Tier,Attendance Raw (%),Attendance With Exemption (%),Internal Assessments (IA),End-Term Exam (Σ),Placement Readiness (%),Research & IP Score,Live Project Marks,Summer Internship (SIP),Disciplinary Severity,Target Recruiter,Composite Score,Status
+2026PRN0001,Simran Fernandes,Batch Jr (2026-28),2,Analytics and Finance,Engg,1.4,BFSI,[M],88,91,71,83,72,86,65,87,Low,Vodafone Idea,79,Satisfactory
+2026PRN0002,Vishal Kumar,Batch Jr (2026-28),2,Marketing and Finance,BCA,3.9,IT Audit,[A],88,90,67,91,66,86,73,72,Low,Infosys Consulting,79,Satisfactory
+2026PRN0003,Varun Roy,Batch Jr (2026-28),1,Systems and Finance,BBA,1.7,Telecom,[M],90,94,87,83,90,85,93,71,Low,PwC,87,Excelling
+2026PRN0004,Aditya Reddy,Batch Jr (2026-28),1,Analytics and Finance,BCA,3.1,Analytics,[A],77,79,64,81,66,84,80,76,Low,Infosys Consulting,75,Satisfactory
+2026PRN0005,Shivam Rao,Batch Jr (2026-28),1,Marketing and Finance,B.Com,1.9,Marketing,[F],70,75,84,87,88,81,68,89,Low,Protiviti,83,Satisfactory
+2026PRN0006,Jay Varma,Batch Jr (2026-28),1,Systems and Finance,Engg,1.9,Consulting,[M],73,77,91,75,66,80,71,69,Low,Accenture Strategy and Consulting,77,Satisfactory
+2026PRN0007,Vaishnavi Jadhav,Batch Jr (2026-28),1,Analytics and Finance,B.Sc,0.0,Marketing,[M],70,73,86,60,86,68,94,77,Low,Airtel,76,Satisfactory
+2026PRN0008,Gaurav Gupta,Batch Jr (2026-28),2,Marketing and Finance,Engg,3.0,Telecom,[A],67,73,92,92,95,62,68,84,Low,Protiviti,84,Satisfactory
+2026PRN0009,Aman Sharma,Batch Jr (2026-28),1,Systems and Finance,Engg,2.4,Telecom,[A],89,91,88,93,82,68,78,89,Low,Vodafone Idea,86,Excelling
+2026PRN0010,Aniruddh Shah,Batch Jr (2026-28),1,Analytics and Finance,Engg,2.6,Analytics,[A],88,90,66,94,75,84,81,72,Low,Vodafone Idea,81,Satisfactory
+2026PRN0011,Khushi Joshi,Batch Jr (2026-28),1,Marketing and Finance,Engg,0.0,Telecom,[M],91,97,62,95,81,58,73,76,Low,Protiviti,80,Satisfactory
+2026PRN0012,Anushka Jha,Batch Jr (2026-28),1,Systems and Finance,B.Com,0.0,Consulting,[M],88,92,94,91,78,55,70,88,Low,Airtel,84,Satisfactory
+2026PRN0013,Jay Tambe,Batch Jr (2026-28),2,Analytics and Finance,Engg,0.0,IT Audit,[A],89,94,62,67,66,61,67,94,Low,Vodafone Idea,71,Satisfactory
+2026PRN0014,Advait Kapoor,Batch Jr (2026-28),1,Marketing and Finance,BCA,0.0,Analytics,[F],77,79,84,95,88,91,74,75,Low,Deloitte,86,Excelling
+2026PRN0015,Aarohi Fernandes,Batch Jr (2026-28),1,Systems and Finance,BBA,2.2,Marketing,[F],94,97,79,70,68,76,67,95,Low,Infosys Consulting,78,Satisfactory
+2026PRN0016,Vikram Nair,Batch Jr (2026-28),1,Analytics and Finance,Engg,0.0,Consulting,[A],80,84,79,64,79,74,90,89,Low,Vodafone Idea,77,Satisfactory
+2026PRN0017,Yuvraj Jain,Batch Jr (2026-28),1,Marketing and Finance,B.Sc,0.0,IT Audit,[A],79,83,89,92,69,76,77,76,Low,Accenture Strategy and Consulting,83,Satisfactory
+2026PRN0018,Vishal Varma,Batch Jr (2026-28),2,Systems and Finance,Engg,3.5,BFSI,[M],83,85,83,80,69,71,84,89,Low,Airtel,80,Satisfactory
+2026PRN0019,Gaurav Purohit,Batch Jr (2026-28),2,Analytics and Finance,B.Com,0.0,Marketing,[M],92,95,81,85,97,52,84,77,Low,PwC,84,Satisfactory
+2026PRN0020,Priyanka Sen,Batch Jr (2026-28),2,Marketing and Finance,Engg,0.0,Marketing,[M],84,87,67,78,94,92,86,70,Low,PwC,81,Satisfactory
+2026PRN0021,Bhavin Deshpande,Batch Jr (2026-28),2,Systems and Finance,B.Sc,0.0,Consulting,[F],94,96,91,86,98,64,89,83,Low,Airtel,88,Excelling
+2026PRN0022,Sarthak Agarwal,Batch Jr (2026-28),1,Analytics and Finance,BCA,4.0,Analytics,[M],91,97,91,63,97,67,72,82,Low,Deloitte,81,Satisfactory
+2026PRN0023,Prachi Roy,Batch Jr (2026-28),2,Marketing and Finance,B.Com,0.0,Marketing,[M],83,88,90,70,92,80,81,92,Low,PwC,83,Satisfactory
+2026PRN0024,Pallavi Patel,Batch Jr (2026-28),2,Systems and Finance,B.Sc,2.0,Analytics,[M],78,82,96,65,70,61,79,80,Low,Deloitte,76,Satisfactory
+2026PRN0025,Mayank Khanna,Batch Jr (2026-28),1,Analytics and Finance,B.Sc,2.5,Consulting,[F],90,96,63,84,92,52,87,77,Low,Airtel,79,Satisfactory
+2026PRN0026,Siddharth Prasad,Batch Jr (2026-28),2,Marketing and Finance,BCA,4.1,Marketing,[A],67,72,83,85,72,81,73,87,Low,Accenture Strategy and Consulting,79,Satisfactory
+2026PRN0027,Riya Banerjee,Batch Jr (2026-28),2,Systems and Finance,Engg,0.0,Marketing,[A],69,73,86,80,75,81,85,78,Low,Airtel,80,Satisfactory
+2026PRN0028,Trisha Mehta,Batch Jr (2026-28),2,Analytics and Finance,Engg,0.0,Analytics,[M],69,73,76,64,64,53,80,74,Low,Accenture Strategy and Consulting,69,At-Risk
+2026PRN0029,Nirav Shah,Batch Jr (2026-28),1,Marketing and Finance,B.Sc,0.0,Consulting,[M],80,83,69,70,81,58,66,77,Low,Airtel,72,Satisfactory
+2026PRN0030,Avani Chakraborty,Batch Jr (2026-28),2,Systems and Finance,B.Com,3.9,Consulting,[A],87,93,69,62,84,86,92,89,Low,Vodafone Idea,78,Satisfactory
+2026PRN0031,Jay Agarwal,Batch Jr (2026-28),1,Analytics and Finance,Engg,3.9,Analytics,[M],93,98,71,87,73,85,82,87,Low,Infosys Consulting,83,Satisfactory
+2026PRN0032,Shivam Reddy,Batch Jr (2026-28),2,Marketing and Finance,Engg,0.0,Consulting,[F],83,86,91,84,83,53,96,95,Low,Vodafone Idea,84,Satisfactory
+2026PRN0033,Kabir Varma,Batch Jr (2026-28),1,Systems and Finance,Engg,0.0,IT Audit,[F],74,80,62,93,74,57,80,91,Low,Airtel,77,Satisfactory
+2026PRN0034,Disha Shetty,Batch Jr (2026-28),2,Analytics and Finance,BCA,3.5,Marketing,[M],74,79,77,79,85,82,87,81,Low,Vodafone Idea,81,Satisfactory
+2026PRN0035,Divya Kapoor,Batch Jr (2026-28),2,Marketing and Finance,BCA,0.0,Analytics,[M],89,95,73,72,75,82,82,91,Low,EY India,79,Satisfactory
+2026PRN0036,Gauri Iyer,Batch Jr (2026-28),1,Systems and Finance,BBA,0.0,IT Audit,[A],78,80,65,95,80,60,96,71,Low,Accenture Strategy and Consulting,79,Satisfactory
+2026PRN0037,Naveen Khanna,Batch Jr (2026-28),2,Analytics and Finance,B.Sc,0.0,Analytics,[M],73,75,87,91,66,88,68,72,Low,Deloitte,81,Satisfactory
+2026PRN0038,Darshan Das,Batch Jr (2026-28),2,Marketing and Finance,B.Com,2.5,Telecom,[M],83,88,90,88,81,89,92,77,Low,Accenture Strategy and Consulting,87,Excelling
+2026PRN0039,Bhavna Saxena,Batch Jr (2026-28),1,Systems and Finance,B.Sc,0.0,BFSI,[A],87,89,72,60,88,80,95,77,Low,Accenture Strategy and Consulting,77,Satisfactory
+2026PRN0040,Gaurav Shetty,Batch Jr (2026-28),1,Analytics and Finance,Engg,1.2,Consulting,[F],86,92,74,87,69,86,79,88,Low,Deloitte,82,Satisfactory
+2026PRN0041,Akanksha Bhattacharya,Batch Jr (2026-28),2,Marketing and Finance,B.Com,0.0,IT Audit,[M],76,81,69,89,81,77,82,84,Low,Infosys Consulting,80,Satisfactory
+2026PRN0042,Advait Mishra,Batch Jr (2026-28),2,Systems and Finance,BBA,3.1,Analytics,[A],92,98,63,77,98,54,76,83,Severe,Infosys Consulting,67,At-Risk
+2026PRN0043,Rishi Mishra,Batch Jr (2026-28),2,Analytics and Finance,B.Com,2.7,Analytics,[M],80,82,72,81,88,83,83,89,Low,Airtel,81,Satisfactory
+2026PRN0044,Ishaan Jain,Batch Jr (2026-28),1,Marketing and Finance,Engg,0.0,Marketing,[F],66,72,91,86,65,64,88,87,Low,Infosys Consulting,80,Satisfactory
+2026PRN0045,Bhavna Jha,Batch Jr (2026-28),2,Systems and Finance,BBA,4.2,Marketing,[F],66,72,77,70,81,87,65,85,Low,Airtel,76,Satisfactory
+2026PRN0046,Tejas Das,Batch Jr (2026-28),1,Analytics and Finance,B.Com,1.4,Consulting,[M],84,88,88,90,92,67,94,85,Low,Deloitte,87,Excelling
+2026PRN0047,Rohan Patil,Batch Jr (2026-28),2,Marketing and Finance,Engg,1.5,Analytics,[M],81,85,94,77,62,70,84,94,Low,Infosys Consulting,80,Satisfactory
+2026PRN0048,Nirav Kulkarni,Batch Jr (2026-28),1,Systems and Finance,BCA,0.0,Telecom,[M],75,78,86,74,88,54,85,91,Moderate,Infosys Consulting,75,Satisfactory
+2026PRN0049,Sameer Trivedi,Batch Jr (2026-28),2,Analytics and Finance,BBA,4.4,Marketing,[F],86,90,68,88,68,85,94,68,Low,Deloitte,80,Satisfactory
+2026PRN0050,Anushka Chakraborty,Batch Jr (2026-28),2,Marketing and Finance,Engg,4.4,IT Audit,[M],70,74,96,84,82,92,96,95,Low,Accenture Strategy and Consulting,87,Excelling
+2026PRN0051,Sanket Joshi,Batch Jr (2026-28),1,Systems and Finance,B.Sc,3.6,Marketing,[F],92,94,90,70,81,53,67,78,Low,Accenture Strategy and Consulting,78,Satisfactory
+2026PRN0052,Mihir Deshpande,Batch Jr (2026-28),2,Analytics and Finance,BBA,0.0,Marketing,[M],74,77,67,84,77,83,74,75,Low,Infosys Consulting,77,Satisfactory
+2026PRN0053,Sameer Agarwal,Batch Jr (2026-28),2,Marketing and Finance,B.Com,2.6,IT Audit,[M],82,86,81,87,78,81,84,74,Low,Airtel,83,Satisfactory
+2026PRN0054,Kunal Rao,Batch Jr (2026-28),2,Systems and Finance,Engg,0.0,IT Audit,[F],93,98,79,60,98,55,96,94,Low,EY India,80,Satisfactory
+2026PRN0055,Kavya Iyer,Batch Jr (2026-28),1,Analytics and Finance,B.Sc,3.2,BFSI,[M],90,93,68,62,81,80,67,86,Low,Vodafone Idea,75,Satisfactory
+2026PRN0056,Gaurav Khan,Batch Jr (2026-28),1,Marketing and Finance,Engg,1.6,Consulting,[M],77,83,94,77,72,68,95,93,Low,EY India,82,Satisfactory
+2026PRN0057,Neha Chakraborty,Batch Jr (2026-28),2,Systems and Finance,Engg,0.0,Consulting,[F],78,84,85,65,87,52,81,85,Low,Protiviti,77,Satisfactory
+2026PRN0058,Siddharth Sharma,Batch Jr (2026-28),2,Analytics and Finance,Engg,0.0,Marketing,[F],72,75,92,61,97,72,79,88,Moderate,Protiviti,75,Satisfactory
+2026PRN0059,Isha Sen,Batch Jr (2026-28),2,Marketing and Finance,Engg,1.5,Analytics,[M],72,75,96,68,86,81,88,89,Low,Airtel,82,Satisfactory
+2026PRN0060,Riddhi Chopra,Batch Jr (2026-28),1,Systems and Finance,Engg,3.2,IT Audit,[A],81,86,77,83,68,75,87,69,Low,Airtel,79,Satisfactory
+2026PRN0061,Aniket Yadav,Batch Jr (2026-28),2,Analytics and Finance,Engg,1.3,Consulting,[M],70,72,83,75,70,88,78,70,Low,PwC,77,Satisfactory
+2026PRN0062,Deepika Khanna,Batch Jr (2026-28),1,Marketing and Finance,Engg,3.8,Telecom,[A],73,76,96,76,73,59,66,72,Low,Accenture Strategy and Consulting,77,Satisfactory
+2026PRN0063,Disha Reddy,Batch Jr (2026-28),2,Systems and Finance,Engg,0.0,Consulting,[M],79,85,69,64,92,80,88,84,Low,Protiviti,77,Satisfactory
+2026PRN0064,Vivek Saha,Batch Jr (2026-28),2,Analytics and Finance,BCA,0.0,BFSI,[M],70,72,92,85,89,58,96,90,Low,Infosys Consulting,84,Satisfactory
+2026PRN0065,Ishita Roy,Batch Jr (2026-28),1,Marketing and Finance,Engg,0.0,Consulting,[M],85,89,86,93,80,81,92,71,Low,Protiviti,86,Excelling
+2026PRN0066,Vedant Iyer,Batch Jr (2026-28),1,Systems and Finance,BCA,3.9,Marketing,[M],81,85,78,83,71,82,69,70,Low,Protiviti,78,Satisfactory
+2026PRN0067,Siddharth Soni,Batch Jr (2026-28),1,Analytics and Finance,B.Com,0.0,Consulting,[M],83,89,83,67,88,74,92,95,Low,Accenture Strategy and Consulting,81,Satisfactory
+2026PRN0068,Kavya Chopra,Batch Jr (2026-28),2,Marketing and Finance,B.Com,1.7,BFSI,[M],77,83,85,67,79,88,79,93,Low,Airtel,80,Satisfactory
+2026PRN0069,Riya Vyas,Batch Jr (2026-28),1,Systems and Finance,BCA,1.1,IT Audit,[M],78,82,62,71,71,88,90,70,Low,Deloitte,74,Satisfactory
+2026PRN0070,Pranav Gupta,Batch Jr (2026-28),1,Analytics and Finance,B.Com,0.0,Marketing,[M],91,95,67,63,71,62,68,89,Low,Protiviti,72,Satisfactory
+2026PRN0071,Mihir Patel,Batch Jr (2026-28),2,Marketing and Finance,Engg,2.4,Consulting,[M],83,85,80,91,95,71,67,75,Low,Airtel,83,Satisfactory
+2026PRN0072,Harsh Gupta,Batch Jr (2026-28),1,Systems and Finance,BBA,3.7,IT Audit,[M],90,95,73,68,86,86,79,84,Low,Vodafone Idea,80,Satisfactory
+2026PRN0073,Siddharth Bhatia,Batch Jr (2026-28),1,Analytics and Finance,Engg,2.6,Analytics,[F],85,90,88,78,69,77,66,78,Low,Deloitte,79,Satisfactory
+2026PRN0074,Khushi Chauhan,Batch Jr (2026-28),2,Marketing and Finance,Engg,1.4,Marketing,[M],80,84,83,74,83,62,69,84,Low,Protiviti,78,Satisfactory
+2026PRN0075,Kavya Kulkarni,Batch Jr (2026-28),1,Systems and Finance,Engg,3.9,Consulting,[A],75,78,71,64,73,92,96,82,Low,Infosys Consulting,75,Satisfactory
+2026PRN0076,Rhea Khan,Batch Sr (2025-27),4,Analytics and Finance,BCA,0.0,Analytics,[M],93,97,65,82,94,56,84,82,Low,Infosys Consulting,80,Satisfactory
+2026PRN0077,Tejas Joshi,Batch Sr (2025-27),3,Marketing and Finance,BBA,0.0,Analytics,[M],80,86,64,88,98,64,85,87,Low,Infosys Consulting,82,Satisfactory
+2026PRN0078,Mrunal Chopra,Batch Sr (2025-27),3,Systems and Finance,Engg,3.9,BFSI,[A],70,73,90,88,95,85,75,79,Low,Vodafone Idea,85,Excelling
+2026PRN0079,Sujay Khanna,Batch Sr (2025-27),4,Analytics and Finance,B.Sc,1.2,BFSI,[M],69,75,86,78,78,90,74,78,Low,Protiviti,80,Satisfactory
+2026PRN0080,Lavanya Deshmukh,Batch Sr (2025-27),3,Marketing and Finance,BBA,4.3,IT Audit,[M],79,82,95,65,89,84,88,68,Low,Vodafone Idea,81,Satisfactory
+2026PRN0081,Chetan Khanna,Batch Sr (2025-27),4,Systems and Finance,BBA,2.7,Consulting,[F],79,81,94,94,95,54,86,96,Low,Deloitte,88,Excelling
+2026PRN0082,Ayush Vyas,Batch Sr (2025-27),4,Analytics and Finance,B.Sc,3.2,Consulting,[M],80,83,90,78,90,66,80,77,Low,Infosys Consulting,82,Satisfactory
+2026PRN0083,Vivek Rao,Batch Sr (2025-27),3,Marketing and Finance,BBA,2.6,IT Audit,[M],82,85,74,68,78,55,95,95,Low,Vodafone Idea,76,Satisfactory
+2026PRN0084,Pallavi Yadav,Batch Sr (2025-27),3,Systems and Finance,BBA,0.0,Analytics,[M],85,88,89,65,76,80,87,68,Low,Airtel,78,Satisfactory
+2026PRN0085,Karan Jadhav,Batch Sr (2025-27),3,Analytics and Finance,B.Com,0.0,Analytics,[M],71,75,71,68,64,70,95,90,Low,Deloitte,73,Satisfactory
+2026PRN0086,Aarav Chauhan,Batch Sr (2025-27),4,Marketing and Finance,BBA,0.0,Consulting,[F],89,95,95,87,69,70,80,77,Low,Protiviti,84,Satisfactory
+2026PRN0087,Sahil Trivedi,Batch Sr (2025-27),3,Systems and Finance,B.Sc,1.2,Marketing,[M],82,88,77,69,80,79,65,87,Low,Vodafone Idea,77,Satisfactory
+2026PRN0088,Archana Shah,Batch Sr (2025-27),3,Analytics and Finance,Engg,2.8,IT Audit,[A],82,88,63,84,92,54,89,79,Low,EY India,79,Satisfactory
+2026PRN0089,Aman Kulkarni,Batch Sr (2025-27),3,Marketing and Finance,B.Com,0.0,BFSI,[M],91,95,70,62,84,86,86,94,Low,Deloitte,78,Satisfactory
+2026PRN0090,Nidhi Saxena,Batch Sr (2025-27),4,Systems and Finance,BBA,0.0,Consulting,[A],84,86,80,72,64,64,67,78,Low,EY India,74,Satisfactory
+2026PRN0091,Pooja Pandey,Batch Sr (2025-27),4,Analytics and Finance,BCA,0.0,BFSI,[A],94,96,83,77,69,75,92,96,Low,Airtel,82,Satisfactory
+2026PRN0092,Kriti Khanna,Batch Sr (2025-27),4,Marketing and Finance,B.Com,2.7,Marketing,[M],78,80,89,65,89,90,76,85,Low,EY India,80,Satisfactory
+2026PRN0093,Ishaan Shah,Batch Sr (2025-27),4,Systems and Finance,Engg,0.0,Marketing,[M],89,94,84,88,64,74,92,76,Low,Accenture Strategy and Consulting,83,Satisfactory
+2026PRN0094,Lavanya Kumar,Batch Sr (2025-27),3,Analytics and Finance,B.Com,3.6,Consulting,[F],86,91,64,68,66,67,88,79,Low,Airtel,73,Satisfactory
+2026PRN0095,Sakshi Mukherjee,Batch Sr (2025-27),3,Marketing and Finance,Engg,2.3,Analytics,[M],80,84,79,75,69,53,76,83,Low,Airtel,75,Satisfactory
+2026PRN0096,Dev Shinde,Batch Sr (2025-27),3,Systems and Finance,B.Com,4.5,IT Audit,[M],76,78,70,64,90,63,93,70,Severe,Vodafone Idea,62,At-Risk
+2026PRN0097,Prachi Prasad,Batch Sr (2025-27),4,Analytics and Finance,B.Com,0.0,IT Audit,[F],91,94,85,92,76,59,77,93,Low,Deloitte,84,Satisfactory
+2026PRN0098,Aarohi Kumar,Batch Sr (2025-27),3,Marketing and Finance,Engg,2.3,Telecom,[A],70,74,87,90,95,78,91,94,Moderate,Protiviti,83,Satisfactory
+2026PRN0099,Riddhi Chakraborty,Batch Sr (2025-27),3,Systems and Finance,BCA,3.4,IT Audit,[A],83,89,73,68,89,84,68,94,Low,Protiviti,79,Satisfactory
+2026PRN0100,Aryan Khan,Batch Sr (2025-27),3,Analytics and Finance,Engg,1.8,Telecom,[F],77,80,79,68,81,91,70,84,Low,Deloitte,78,Satisfactory
+2026PRN0101,Rohit Singh,Batch Sr (2025-27),3,Marketing and Finance,B.Sc,2.2,Telecom,[A],72,74,78,73,98,78,66,83,Low,EY India,79,Satisfactory
+2026PRN0102,Swapnil Varma,Batch Sr (2025-27),4,Systems and Finance,Engg,2.0,Analytics,[M],80,85,91,73,83,90,74,78,Low,Vodafone Idea,82,Satisfactory
+2026PRN0103,Ankita Srivastava,Batch Sr (2025-27),4,Analytics and Finance,Engg,0.0,Telecom,[A],71,75,90,75,71,58,68,77,Low,Airtel,75,Satisfactory
+2026PRN0104,Varun Dubey,Batch Sr (2025-27),4,Marketing and Finance,Engg,4.3,BFSI,[M],81,87,91,91,81,83,66,70,Low,Airtel,85,Excelling
+2026PRN0105,Bhavna Reddy,Batch Sr (2025-27),4,Systems and Finance,BBA,0.0,Analytics,[M],93,98,80,94,62,58,92,72,Low,EY India,82,Satisfactory
+2026PRN0106,Khushi Bhatia,Batch Sr (2025-27),4,Analytics and Finance,Engg,3.0,Consulting,[M],78,84,90,95,79,91,72,72,Low,Protiviti,86,Excelling
+2026PRN0107,Jay Purohit,Batch Sr (2025-27),4,Marketing and Finance,B.Sc,3.6,Consulting,[M],71,73,64,68,83,82,94,72,Low,Deloitte,74,Satisfactory
+2026PRN0108,Ishita Dubey,Batch Sr (2025-27),4,Systems and Finance,Engg,0.0,Telecom,[M],76,82,94,94,93,88,84,83,Low,Accenture Strategy and Consulting,90,Excelling
+2026PRN0109,Aniket Mehta,Batch Sr (2025-27),4,Analytics and Finance,B.Com,3.8,BFSI,[F],86,91,78,74,65,89,95,73,Low,Airtel,79,Satisfactory
+2026PRN0110,Disha Bhatia,Batch Sr (2025-27),3,Marketing and Finance,Engg,3.5,Consulting,[A],71,76,75,86,94,91,95,95,Low,Accenture Strategy and Consulting,85,Excelling
+2026PRN0111,Rahul Khan,Batch Sr (2025-27),3,Systems and Finance,BCA,2.7,Marketing,[M],85,89,96,82,78,91,95,74,Low,PwC,87,Excelling
+2026PRN0112,Deepika Kapoor,Batch Sr (2025-27),4,Analytics and Finance,Engg,3.5,BFSI,[M],77,83,79,78,69,88,89,96,Low,Airtel,81,Satisfactory
+2026PRN0113,Tanvi Deshpande,Batch Sr (2025-27),4,Marketing and Finance,Engg,0.0,IT Audit,[F],82,86,92,73,74,86,82,85,Low,EY India,82,Satisfactory
+2026PRN0114,Siddharth Reddy,Batch Sr (2025-27),3,Systems and Finance,Engg,0.0,Analytics,[M],89,92,65,66,88,73,95,71,Low,Deloitte,76,Satisfactory
+2026PRN0115,Aparna Mehta,Batch Sr (2025-27),3,Analytics and Finance,Engg,4.1,Marketing,[M],77,81,80,63,67,88,79,85,Low,Accenture Strategy and Consulting,75,Satisfactory
+2026PRN0116,Tejas Fernandes,Batch Sr (2025-27),3,Marketing and Finance,Engg,1.1,Marketing,[M],91,95,64,60,81,88,71,78,Low,EY India,74,Satisfactory
+2026PRN0117,Pooja Pillai,Batch Sr (2025-27),4,Systems and Finance,B.Sc,4.3,Telecom,[M],71,75,72,89,78,63,65,91,Low,Vodafone Idea,77,Satisfactory
+2026PRN0118,Simran Ghosh,Batch Sr (2025-27),4,Analytics and Finance,B.Sc,0.0,BFSI,[F],84,88,67,85,68,63,73,83,Low,Vodafone Idea,76,Satisfactory
+2026PRN0119,Kunal Jadhav,Batch Sr (2025-27),3,Marketing and Finance,Engg,1.9,IT Audit,[M],68,72,85,75,65,59,94,77,Low,Deloitte,75,Satisfactory
+2026PRN0120,Sanskriti Tambe,Batch Sr (2025-27),4,Systems and Finance,Engg,0.0,Analytics,[M],77,83,76,74,70,82,74,82,Moderate,Vodafone Idea,73,Satisfactory
+2026PRN0121,Nidhi Srivastava,Batch Sr (2025-27),4,Analytics and Finance,BCA,3.3,Consulting,[M],89,91,95,88,95,75,69,86,Low,Protiviti,88,Excelling
+2026PRN0122,Nisha Ghosh,Batch Sr (2025-27),3,Marketing and Finance,Engg,1.5,IT Audit,[F],90,93,93,65,94,80,68,82,Low,Deloitte,82,Satisfactory
+2026PRN0123,Akash Purohit,Batch Sr (2025-27),4,Systems and Finance,Engg,3.8,BFSI,[A],69,72,66,62,89,74,69,85,Low,Accenture Strategy and Consulting,72,Satisfactory
+2026PRN0124,Nidhi Bhatia,Batch Sr (2025-27),3,Analytics and Finance,B.Com,0.0,Consulting,[M],90,95,85,84,90,76,89,70,Low,Deloitte,85,Excelling
+2026PRN0125,Pratik Malhotra,Batch Sr (2025-27),4,Marketing and Finance,Engg,3.5,Consulting,[F],76,81,96,87,96,76,79,75,Low,Infosys Consulting,87,Excelling
+2026PRN0126,Bhavin Singh,Batch Sr (2025-27),4,Systems and Finance,BBA,1.1,BFSI,[M],69,72,75,64,68,90,67,82,Low,Accenture Strategy and Consulting,72,Satisfactory
+2026PRN0127,Lavanya Mukherjee,Batch Sr (2025-27),3,Analytics and Finance,BBA,0.0,Consulting,[M],70,76,80,74,98,72,85,75,Low,EY India,80,Satisfactory
+2026PRN0128,Pallavi Iyer,Batch Sr (2025-27),3,Marketing and Finance,Engg,2.0,Telecom,[F],72,77,93,63,84,76,85,90,Low,Airtel,79,Satisfactory
+2026PRN0129,Kunal Fernandes,Batch Sr (2025-27),4,Systems and Finance,Engg,2.7,Consulting,[M],92,97,65,95,88,78,73,80,Low,PwC,84,Satisfactory
+2026PRN0130,Samarth Chauhan,Batch Sr (2025-27),4,Analytics and Finance,B.Sc,4.0,Analytics,[M],69,73,86,62,66,64,78,83,Low,PwC,72,Satisfactory
+2026PRN0131,Vikram Agarwal,Batch Sr (2025-27),4,Marketing and Finance,Engg,0.0,Consulting,[F],91,96,77,73,87,67,85,92,Low,EY India,81,Satisfactory
+2026PRN0132,Samarth Kulkarni,Batch Sr (2025-27),4,Systems and Finance,BBA,0.0,IT Audit,[M],70,75,82,73,85,72,91,69,Low,PwC,78,Satisfactory
+2026PRN0133,Rahul Reddy,Batch Sr (2025-27),3,Analytics and Finance,Engg,2.5,Consulting,[A],87,90,93,95,83,68,96,91,Low,Infosys Consulting,89,Excelling
+2026PRN0134,Suraj Kulkarni,Batch Sr (2025-27),4,Marketing and Finance,BCA,0.0,BFSI,[M],87,89,95,62,66,55,65,81,Low,Deloitte,74,Satisfactory
+2026PRN0135,Arjun Agarwal,Batch Sr (2025-27),3,Systems and Finance,B.Sc,0.0,Marketing,[M],87,93,92,91,63,52,91,68,Low,Accenture Strategy and Consulting,82,Satisfactory
+2026PRN0136,Gaurav Banerjee,Batch Sr (2025-27),4,Analytics and Finance,Engg,3.4,Marketing,[F],73,75,95,69,77,64,81,94,Moderate,Vodafone Idea,75,Satisfactory
+2026PRN0137,Amrita Kumar,Batch Sr (2025-27),4,Marketing and Finance,Engg,2.6,Consulting,[F],91,93,64,65,87,76,89,85,Low,Infosys Consulting,77,Satisfactory
+2026PRN0138,Samiksha Dubey,Batch Sr (2025-27),3,Systems and Finance,Engg,0.0,Marketing,[M],69,75,64,74,75,88,95,76,Low,Accenture Strategy and Consulting,76,Satisfactory
+2026PRN0139,Divya Prasad,Batch Sr (2025-27),3,Analytics and Finance,Engg,1.1,IT Audit,[A],71,76,66,79,72,88,80,86,Low,Airtel,76,Satisfactory
+2026PRN0140,Siddharth Deshmukh,Batch Sr (2025-27),4,Marketing and Finance,Engg,3.4,Analytics,[M],71,73,89,74,66,73,90,92,Severe,Vodafone Idea,66,At-Risk
+2026PRN0141,Sonali Mukherjee,Batch Sr (2025-27),3,Systems and Finance,BBA,2.2,Marketing,[M],88,93,67,78,77,56,70,76,Low,Deloitte,75,Satisfactory
+2026PRN0142,Rhea Deshpande,Batch Sr (2025-27),4,Analytics and Finance,Engg,2.1,Analytics,[A],82,86,79,66,70,57,76,81,Moderate,Infosys Consulting,69,At-Risk
+2026PRN0143,Amit Kulkarni,Batch Sr (2025-27),4,Marketing and Finance,BCA,3.1,IT Audit,[F],80,85,67,95,77,88,75,89,Low,Airtel,82,Satisfactory
+2026PRN0144,Harsh Jha,Batch Sr (2025-27),3,Systems and Finance,Engg,1.2,Marketing,[M],95,97,85,76,77,92,96,87,Low,PwC,85,Excelling
+2026PRN0145,Harsh Agarwal,Batch Sr (2025-27),4,Analytics and Finance,Engg,2.2,Telecom,[M],82,86,89,68,81,72,77,83,Low,Vodafone Idea,79,Satisfactory
+2026PRN0146,Ishita Joshi,Batch Sr (2025-27),3,Marketing and Finance,Engg,3.2,Telecom,[M],75,80,85,67,98,64,76,89,Low,Accenture Strategy and Consulting,79,Satisfactory
+2026PRN0147,Bhavna Mukherjee,Batch Sr (2025-27),4,Systems and Finance,Engg,3.9,Analytics,[F],80,85,70,79,77,68,74,90,Low,Airtel,77,Satisfactory
+2026PRN0148,Rohan Pandey,Batch Sr (2025-27),4,Analytics and Finance,Engg,2.9,BFSI,[M],77,83,67,66,77,74,75,88,Low,Accenture Strategy and Consulting,73,Satisfactory
+2026PRN0149,Janhavi Trivedi,Batch Sr (2025-27),4,Marketing and Finance,Engg,1.0,IT Audit,[A],83,89,76,88,85,77,94,92,Low,Deloitte,85,Excelling
+2026PRN0150,Nidhi Chopra,Batch Sr (2025-27),4,Systems and Finance,Engg,0.0,Analytics,[A],72,76,81,81,91,65,95,79,Moderate,Infosys Consulting,77,Satisfactory
